@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raihan-ops
 - 👀 I’m interested in ...JavaScript
-- 🌱 I’m currently learning ...Next js,React Native
+- 🌱 I’m currently learning ...GraphQL, Microservices,docker,ci/cd
 - 💞️ I’m looking to collaborate on ...Frontend Developer
 - 📫 How to reach me ...tasnimraihan28@gamil.com
 
